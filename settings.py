@@ -25,7 +25,7 @@ SECRET_KEY = '8%r9y7v2zq*#cx%=2(zw@jc6ii-gqcwj4d1v6&1so5(qs6(j*#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://tishedulebot.herokuapp.com/']
 
 
 # Application definition
